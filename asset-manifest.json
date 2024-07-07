@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI-Literacy/static/css/main.f1d77694.css",
+    "main.js": "/AI-Literacy/static/js/main.1077a642.js",
+    "index.html": "/AI-Literacy/index.html",
+    "main.f1d77694.css.map": "/AI-Literacy/static/css/main.f1d77694.css.map",
+    "main.1077a642.js.map": "/AI-Literacy/static/js/main.1077a642.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d77694.css",
+    "static/js/main.1077a642.js"
+  ]
+}
