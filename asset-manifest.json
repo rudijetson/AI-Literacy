@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AI-Literacy/static/css/main.f1d77694.css",
-    "main.js": "/AI-Literacy/static/js/main.1077a642.js",
+    "main.css": "/AI-Literacy/static/css/main.4629100f.css",
+    "main.js": "/AI-Literacy/static/js/main.6a95f1ac.js",
     "index.html": "/AI-Literacy/index.html",
-    "main.f1d77694.css.map": "/AI-Literacy/static/css/main.f1d77694.css.map",
-    "main.1077a642.js.map": "/AI-Literacy/static/js/main.1077a642.js.map"
+    "main.4629100f.css.map": "/AI-Literacy/static/css/main.4629100f.css.map",
+    "main.6a95f1ac.js.map": "/AI-Literacy/static/js/main.6a95f1ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1d77694.css",
-    "static/js/main.1077a642.js"
+    "static/css/main.4629100f.css",
+    "static/js/main.6a95f1ac.js"
   ]
 }
